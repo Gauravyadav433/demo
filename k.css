@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+nav{
+    margin-top: 10px;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+nav a:hover{
+    color: yellow;
+}
+
+main{
+    padding: 30px;
+    min-height: 400px;
+    text-align: center;
+}
+
+footer{
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
